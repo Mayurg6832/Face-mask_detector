@@ -4,6 +4,8 @@ This model detects Mask on Faces in Real time using Convolutional Neural Network
 ## Description
 This project is to perform Mask classification on Faces using Convolutional Neural Network and openCV. This project analyzes the mask on our Face. Data used in this project are Face mask detector . This dataset consist of 1315 images in training set and 194 images in validation set .This project is implemented with Keras. The user face from camera as input and classifie whether the users wears a face mask or not.
 
+![Live Demo](https://github.com/Mayurg6832/Face-mask_detector/blob/master/ezgif.com-gif-maker.gif)
+
 
 ## Prerequisites
 Make sure you have the following list of dependencies for this project installed and setup on your system first:
